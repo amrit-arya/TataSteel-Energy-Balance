@@ -1,0 +1,4 @@
+gas_type_id,consumer_type,consumer_count,total_consumption
+BFG,External,9,1200000.0
+BFG,Internal,6,536000.0
+COG,External,18,134600.0

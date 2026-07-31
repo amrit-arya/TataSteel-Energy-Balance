@@ -1,0 +1,4 @@
+gas_id,gas_name,short_name,description,total_generation,total_consumption,balance,utilization_percentage,data_status
+BFG,Blast Furnace Gas,BF Gas,By-product gas from blast furnace iron-making process,1721200.0,1736000.0,-14800.0,100.86,Complete
+COG,Coke Oven Gas,CO Gas,By-product gas from coke oven batteries,142000.0,134600.0,7400.0,94.79,Complete
+LDG,Linz-Donawitz Gas,LD Gas,By-product gas from LD converter steelmaking process,150000.0,,,,Consumption Data Unavailable

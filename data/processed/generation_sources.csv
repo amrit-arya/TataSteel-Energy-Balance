@@ -1,0 +1,11 @@
+source_id,gas_type_id,source_name,plant_area,generation_value,unit
+BFG-GEN-001,BFG,Furnace I,Blast Furnace,465000.0,Nm³/hr
+BFG-GEN-002,BFG,Furnace H,Blast Furnace,450000.0,Nm³/hr
+BFG-GEN-003,BFG,Furnace G,Blast Furnace,322000.0,Nm³/hr
+BFG-GEN-004,BFG,Furnace F,Blast Furnace,240000.0,Nm³/hr
+BFG-GEN-005,BFG,Furnace E,Blast Furnace,82200.0,Nm³/hr
+BFG-GEN-006,BFG,Furnace C,Blast Furnace,162000.0,Nm³/hr
+COG-GEN-001,COG,Old BPP,"Batt 8, Batt 9",62000.0,Nm³/hr
+COG-GEN-002,COG,New BPP,"Batt 10, Batt 11",80000.0,Nm³/hr
+LDG-GEN-001,LDG,LD-1 & LD-3,LD Converter,85000.0,Nm³/hr
+LDG-GEN-002,LDG,LD-2,LD Converter,65000.0,Nm³/hr

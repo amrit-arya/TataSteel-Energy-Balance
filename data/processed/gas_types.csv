@@ -1,0 +1,4 @@
+gas_id,gas_name,short_name,description
+BFG,Blast Furnace Gas,BF Gas,By-product gas from blast furnace iron-making process
+COG,Coke Oven Gas,CO Gas,By-product gas from coke oven batteries
+LDG,Linz-Donawitz Gas,LD Gas,By-product gas from LD converter steelmaking process

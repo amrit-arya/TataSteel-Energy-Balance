@@ -1,0 +1,4 @@
+gas_id,total_generation,total_consumption,balance,utilization_percentage,data_status
+BFG,1721200.0,1736000.0,-14800.0,100.86,Complete
+COG,142000.0,134600.0,7400.0,94.79,Complete
+LDG,150000.0,,,,Consumption Data Unavailable
